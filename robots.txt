@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://fanwenyuan011012-bit.github.io//sitemap.xml
